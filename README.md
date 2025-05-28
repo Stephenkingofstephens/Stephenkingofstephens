@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Stephenkingofstephens
-- 👀 I’m interested in music, radios, communications, analog/digital electronics, sound, waves, and TTRPGs!
-- 🌱 I’m currently learning Electrical Engineering, Python, C++...
-- 💞️ I’m looking to collaborate on anything on the simpler side code-wise, I'm currently trying to modify an analog tape deck into a delay effect unit.
+- 👀 I’m interested in music, radio, communications, embedded systems, controls, synthesizers, and TTRPGs!
+- 🌱 I’m currently learning DSP in MATLAB, and exploring more application with FPGAs, and Microcontroller systems.
 - 📫 How to reach me stephenking525@gmail.com
 
 <!---
